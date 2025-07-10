@@ -48,4 +48,8 @@ Mesum Mukhtar
 🎓 Student at University of Baltistan
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meesummukhtar) [![LinkedIn]https://www.linkedin.com/in/mesummukhtar/] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mesummukhtar47@gmail.com) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/meesummukhtar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mesummukhtar/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesummukhtar3@gmail.com)
+
